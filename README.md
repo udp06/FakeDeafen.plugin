@@ -10,7 +10,6 @@ Listen or even talk in a voice chat while being self-deafened.
 4. Now your Mute/Deafen state is fixated for others, i.e. you can toggle Mute/Deafen and this change won't display in a voice chat but you will be able to listen or talk
 5. Have fun!
 
-[![Download][download-badge]][fakedeafen-download-link] [![Support][support-badge]][support-link]
 
 ## Connect with Me
 <p align="center">
@@ -24,5 +23,5 @@ Listen or even talk in a voice chat while being self-deafened.
 [status-review-badge]: https://img.shields.io/badge/status-review-yellow
 [status-official-badge]: https://img.shields.io/badge/status-official-brightgreen
 
-[fakedeafen-download-link]: https://arg0nny.github.io/bd/download/?id=FakeDeafen
+[fakedeafen-download-link]: https://upd06.github.io/bd/download/?id=FakeDeafen.plugin
 [fakedeafen-version-badge]: https://img.shields.io/badge/version-1.0.5-blue
