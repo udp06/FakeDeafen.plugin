@@ -66,7 +66,7 @@ module.exports = class FakeDeafen {
         fakeDeafenBtn.onmouseleave = () => fakeDeafenBtn.style.transform = "scale(1)";
 
         const icon = document.createElement("img");
-        icon.src = "https://cdn-icons-png.flaticon.com/512/5610/5610944.png"; // ✅ أيقونة جاهزة
+        icon.src = "https://cdn-icons-png.flaticon.com/512/5610/5610944.png"; 
         icon.alt = "Fake Deafen";
         icon.style.width = "20px";
         icon.style.height = "20px";
